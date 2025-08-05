@@ -8,19 +8,16 @@
  Mi Nombre Completo Es **Samuel Rodriguez Castro** <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="400" align="right"/>
 
 
-- Soy estudiante de Análisis y Desarrollo de Software. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en una empresa que crea sistemas para carpintería. Me encanta aprender y crear cosas nuevas, productivas, innovadoras y creativas.
+- 🎓 Soy estudiante de Análisis y Desarrollo de Software, con interés en crear soluciones tecnológicas que aporten valor.
+💻 Actualmente trabajo como desarrollador de software, ampliando mis habilidades tanto en el desarrollo front-end como en el back-end.
 - Actualmente estoy aprendiendo
    - Python
    - Django
    - Next.js
--  My major is **Software Engineering**
--  I'm living now in **Ho Chi Minh City, Viet Nam**
--  I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
--  I'm interested in coding, sleeping, and watching film
--  My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
--  Fun fact: have problem sleep, happy sleep, sad sleep ~~ everything sleep
 
--  
+- Fuera del mundo tech, Me Gusta leer Filosofía y Desarrollo Personal, Jugar Futbol, Hacer Ejercicio y Aprender
+- 🚀 Me encanta experimentar con nuevas tecnologías y construir soluciones productivas, creativas e innovadoras que generen impacto.
+
 
 ## Some Languages
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 	 
