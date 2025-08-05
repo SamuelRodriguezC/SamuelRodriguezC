@@ -15,7 +15,7 @@
    - Django
    - Next.js
 
-- Fuera del mundo tech, Me Gusta leer Filosofía y Desarrollo Personal, Jugar Futbol, Hacer Ejercicio y Aprender
+- Fuera del mundo tech, Me Gusta leer Filosofía y Desarrollo Personal, Jugar Futbol y Hacer Ejercicio 
 
 
 ## Some Languages
