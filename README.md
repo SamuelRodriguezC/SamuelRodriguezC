@@ -3,12 +3,16 @@
 </div>
 
 
-## About Me
+## Sobre Mí
 
- My full name is **Huỳnh Lê Thủy Tiên** <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="400" align="right"/>
+ Mi Nombre Completo Es **Samuel Rodriguez Castro** <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="400" align="right"/>
 
 
--  I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
+- Soy estudiante de Análisis y Desarrollo de Software. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y trabajo como desarrollador de software en una empresa que crea sistemas para carpintería. Me encanta aprender y crear cosas nuevas, productivas, innovadoras y creativas.
+- Actualmente estoy aprendiendo
+   - Python
+   - Django
+   - Next.js
 -  My major is **Software Engineering**
 -  I'm living now in **Ho Chi Minh City, Viet Nam**
 -  I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
@@ -16,22 +20,36 @@
 -  My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
 -  Fun fact: have problem sleep, happy sleep, sad sleep ~~ everything sleep
 
-## Some Languages and Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
+-  
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+## Some Languages
+ ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 	 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-## About Some Stats
+
+
+
+
+## Estadísticas de Git Hub
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRodriguezC&layout=compact&show_icon=true&theme=tokyonight&hide&border=true&locale=es" alt="tienhuynh-tn-langs" />
+<img src="https://github-readme-stats.vercel.app/api/?username=SamuelRodriguezC&layout=compact&show_icon=true&theme=tokyonight&hide&border=true&locale=es" alt="tienhuynh-tn-stats"/>
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Echa un vistazo a mis redes sociales.
 <p align="center">
   <a href="mailto:tien.huynhlt.tn@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
@@ -55,12 +73,5 @@
 <p> 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  Gracias Por Ver Mi Perfil! :wink: <br/>
 </div>
-
-------
-
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
-
-Last Edited on: 22/12/2021
