@@ -16,7 +16,6 @@
    - Next.js
 
 - Fuera del mundo tech, Me Gusta leer Filosofía y Desarrollo Personal, Jugar Futbol, Hacer Ejercicio y Aprender
-- 🚀 Me encanta experimentar con nuevas tecnologías y construir soluciones productivas, creativas e innovadoras que generen impacto.
 
 
 ## Some Languages
