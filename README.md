@@ -56,9 +56,6 @@
   </a> &nbsp;&nbsp;
   
   
-  <a href="https://www.instagram.com/samueloo___/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
   
 <p> 
 
