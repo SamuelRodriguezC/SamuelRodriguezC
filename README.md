@@ -38,7 +38,7 @@
 
 
 
-## Estadísticas de Git Hub
+## Estadísticas de Git Hub - 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRodriguezC&layout=compact&show_icon=true&theme=tokyonight&hide&border=true&locale=es" alt="tienhuynh-tn-langs" />
 <img src="https://github-readme-stats.vercel.app/api/?username=SamuelRodriguezC&layout=compact&show_icon=true&theme=tokyonight&hide&border=true&locale=es" alt="tienhuynh-tn-stats"/>
